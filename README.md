@@ -1,0 +1,2 @@
+# PKGBUILD-GPLV2
+A GPLV2 PKGBUILD for arch linux.
