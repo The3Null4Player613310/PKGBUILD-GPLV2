@@ -7,7 +7,7 @@
 #
 
 # PACKAGE DETAILS
-pkgname='pkgbuild';
+pkgname='';
 pkgdesc='';
 url='';
 license=('GPL-2.0-only');
@@ -33,7 +33,7 @@ pkgrel=0;
 # site='';
 source=(
   # "${pkgname}-${pkgver}.tar.gz::${protocol}${site}/${pkgname}-${pkgver}.tar.gz"
-  "ICON.png"
+  'ICON.png'
   'LICENSE'
   'README.md'         
 );
